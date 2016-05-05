@@ -1,0 +1,54 @@
+.carousel-inner > .item {
+  max-height: 1500px;
+}
+.smallimg {
+  height: 100px;
+  width: 100px;
+  border-radius: 20px;
+}
+
+.graph {
+  width: auto;
+  height: auto;
+}
+
+.jumbotron {
+  background-image: url("http://dlrprepschool.com/wp-content/uploads/2015/10/cocktail-final.jpg");
+  background-size: cover;
+  color: white;
+  text-shadow: 2px 2px black;
+}
+
+h3 {
+  color: white;
+    text-shadow:
+    -1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+    1px 1px 0 #000;
+    font-size: 36pt;
+}
+
+.navbar-header {
+  font-family: 'Roboto Condensed', sans-serif;
+}
+
+.col-sm-1 p {
+  font-variant: small-caps;
+}
+
+/*.nav {
+  background-color: #2d3642;
+}*/
+
+nav > .container-fluid {
+  background-color: #2d3642;
+}
+
+/*nav > .container-fluid > .navbar-header > .texttt {
+  color: white;
+}*/
+
+#ul1 {
+  color: white;
+}
